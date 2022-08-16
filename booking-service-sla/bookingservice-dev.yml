@@ -1,0 +1,3 @@
+service:
+  greeting: Hello from booking dev
+  id: 6

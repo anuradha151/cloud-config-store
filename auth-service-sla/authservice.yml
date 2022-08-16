@@ -1,0 +1,3 @@
+service:
+  greeting: Hello from auth default
+  id: 1
